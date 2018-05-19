@@ -10,11 +10,7 @@ public static void main(String[] args) {
 // }
 
 String message = "Hello World!";
-String message2 = "love and romantic people";
 System.out.printn(message);
-System.out.printn(message2);
-
-
 //{ autofold
 }
 
